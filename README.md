@@ -9,3 +9,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pohribniakroman&show_icons=true&locale=en" alt="pohribniakroman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pohribniakroman&" alt="pohribniakroman" /></p>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
