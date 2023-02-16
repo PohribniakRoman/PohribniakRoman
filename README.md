@@ -6,7 +6,7 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-# Hi Fellow Devs :wave:
+#
 <p align="center">
 <samp>
 I'm Roman Pohribniak. Frontend developer from Ukraine.
