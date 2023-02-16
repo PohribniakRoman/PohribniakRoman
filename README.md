@@ -2,14 +2,14 @@
 
 <p align="center">
   <samp>
-I'm Danny Koppenhagen. Frontend Architect, Web Developer, Consultant, Author and Open Source Enthusiast from Berlin (Germany).
+I'm Roman Pohribniak. Frontend developer from Ukraine.
   </samp>
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=d-koppenhagen&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
 </p>
 
-## Angular Buch :closed_book:
+## Skills :closed_book:
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pohribniakroman&label=Profile%20views&color=0e75b6&style=flat" alt="pohribniakroman" /> </p>
