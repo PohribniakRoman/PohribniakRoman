@@ -1,10 +1,7 @@
-<p
 # Hi Fellow Devs :wave:
-
-<p align="center">
-  <samp>
+<samp>
 I'm Roman Pohribniak. Frontend developer from Ukraine.
-  </samp>
+</samp>
   <br/>
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pohribniakroman&show_icons=true&locale=en" alt="pohribniakroman" />
