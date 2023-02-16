@@ -1,4 +1,6 @@
+<p align="center">
 # Hi Fellow Devs :wave:
+</p>
 
 <p align="center">
   <samp>
