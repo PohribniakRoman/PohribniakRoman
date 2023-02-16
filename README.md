@@ -1,4 +1,5 @@
 # Hi Fellow Devs :wave:
+<p align="center">
 <samp>
 I'm Roman Pohribniak. Frontend developer from Ukraine.
 </samp>
