@@ -1,6 +1,5 @@
-<p align="center">
+<p
 # Hi Fellow Devs :wave:
-</p>
 
 <p align="center">
   <samp>
@@ -11,7 +10,11 @@ I'm Roman Pohribniak. Frontend developer from Ukraine.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pohribniakroman&show_icons=true&locale=en" alt="pohribniakroman" />
 </p>
 
-## Skills :closed_book:
+## Skills
+- 👨‍💻 TypeScript, JavaScript, C++, C#
+- ⚙️ React,Redux,Saga,Socket.io
+- 👁️ SASS, CSS
+- 💽 MongoDB
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pohribniakroman&label=Profile%20views&color=0e75b6&style=flat" alt="pohribniakroman" /> </p>
