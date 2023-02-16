@@ -22,6 +22,7 @@ I'm Roman Pohribniak. Frontend developer from Ukraine.
 - 👁️ SASS, CSS
 - 💽 MongoDB
 
+#
 <p  align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pohribniakroman&show_icons=true&locale=en&layout=compact" alt="pohribniakroman" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pohribniakroman&show_icons=true&locale=en" alt="pohribniakroman" /></p>
