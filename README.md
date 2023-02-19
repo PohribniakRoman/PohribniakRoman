@@ -1,6 +1,5 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Roman</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
-</div>
 
 ### 🔨 Languages and Tools:
 [![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
@@ -19,6 +18,8 @@
 <br>
 [![Git](https://img.shields.io/badge/Git-★★★-lightgrey?labelColor=282c34&logo=Git&style=for-the-badge&logoColor=e84d31)](https://git-scm.com/)
 [![bash](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=282c34&logo=GNU-Bash&style=for-the-badge&logoColor=4ba324)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+
+</div>
 
 <p align="center">
 Frontend developer from Ukraine.
