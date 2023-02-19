@@ -31,6 +31,7 @@
 <p align=right>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pohribniakroman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pohribniakroman.visitor-badge&left_color=red&right_color=green&left_text=Visitors%20counter)
    
 
