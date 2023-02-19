@@ -33,7 +33,7 @@ Frontend developer from Ukraine.
 [![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
 [![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 <br>
-[![Redux](https://img.shields.io/badge/Redux-Saga-★★★-lightgrey?labelColor=282c34&logo=Redux-Saga&style=for-the-badge&logoColor=86d46b)](https://git-scm.com/)
+[![Redux](https://img.shields.io/badge/ReduxSaga-★★★-lightgrey?labelColor=282c34&logo=ReduxSaga&style=for-the-badge&logoColor=86d46b)](https://git-scm.com/)
 [![Saga](https://img.shields.io/badge/Saga-★★★-lightgrey?labelColor=282c34&logo=Saga&style=for-the-badge&logoColor=61dafb)](https://git-scm.com/)
 [![React](https://img.shields.io/badge/React-★★★-lightgrey?labelColor=282c34&logo=React&style=for-the-badge&logoColor=61dafb)](https://git-scm.com/)
 <br>
