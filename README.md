@@ -29,8 +29,7 @@ Frontend developer from Ukraine.
   <summary><b>Skills</b></summary>
 
 ### 🔨 Languages and Tools:
-[![Git](https://img.shields.io/badge/Git-★★★-lightgrey?labelColor=47A248&logo=Git&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
- 
+[![Git](https://img.shields.io/badge/Git-★★★-lightgrey?labelColor=e84d31&logo=Git&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
 [![mongoDB](https://img.shields.io/badge/MongoDB-★★★-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
   <br> 
 [![bash](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
