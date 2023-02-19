@@ -32,4 +32,4 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pohribniakroman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-![visitor badge](https://komarev.com/ghpvc/?PohribniakRoman=PohribniakRoman&color=brightgreen&style=for-the-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
