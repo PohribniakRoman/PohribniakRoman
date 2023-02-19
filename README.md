@@ -29,7 +29,7 @@ Frontend developer from Ukraine.
   <summary><b>Skills</b></summary>
 
 ### 🔨 Languages and Tools:
-[![Socket.IO](https://img.shields.io/badge/React-★★★-lightgrey?labelColor=282c34&logo=React&style=for-the-badge&logoColor=black)](https://git-scm.com/)
+[![Socket.IO](https://img.shields.io/badge/React-★★★-lightgrey?labelColor=282c34&logo=React&style=for-the-badge&logoColor=#61dafb)](https://git-scm.com/)
 [![Socket.IO](https://img.shields.io/badge/SocketIO-★★★-lightgrey?labelColor=ffffff&logo=SocketIO&style=for-the-badge&logoColor=black)](https://git-scm.com/)
 <br> 
 [![mongoDB](https://img.shields.io/badge/MongoDB-★★★-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
