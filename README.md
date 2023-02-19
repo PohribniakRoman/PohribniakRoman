@@ -37,7 +37,7 @@ Frontend developer from Ukraine.
 [![Redux](https://img.shields.io/badge/Redux-★★★-lightgrey?labelColor=282c34&logo=Redux&style=for-the-badge&logoColor=764abc)](https://redux.js.org/)
 [![React](https://img.shields.io/badge/React-★★★-lightgrey?labelColor=282c34&logo=React&style=for-the-badge&logoColor=61dafb)](https://uk.ractjs.org/)
 <br>
-[![Node.js](https://img.shields.io/badge/NodeJS-★★★-lightgrey?labelColor=282c34&logo=NodeJS&style=for-the-badge&logoColor=86d46b)](https://redux-saga.js.org/)
+[![Node.js](https://img.shields.io/badge/Node.JS-★★★-lightgrey?labelColor=282c34&logo=Node.JS&style=for-the-badge&logoColor=86d46b)](https://redux-saga.js.org/)
 [![Nest.js](https://img.shields.io/badge/NestJS-★★★-lightgrey?labelColor=282c34&logo=NestJS&style=for-the-badge&logoColor=764abc)](https://redux.js.org/)
 [![Express.js](https://img.shields.io/badge/Express-★★★-lightgrey?labelColor=282c34&logo=Express&style=for-the-badge&logoColor=61dafb)](https://uk.ractjs.org/)
 <br>
