@@ -46,5 +46,5 @@ Frontend developer from Ukraine.
 [![Git](https://img.shields.io/badge/Git-★★★-lightgrey?labelColor=282c34&logo=Git&style=for-the-badge&logoColor=e84d31)](https://git-scm.com/)
 [![bash](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=282c34&logo=GNU-Bash&style=for-the-badge&logoColor=4ba324)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 <br>
-[![Figma](https://img.shields.io/badge/Figma-★★★-lightgrey?labelColor=282c34&logo=GNU-Figma&style=for-the-badge&logoColor=4ba324)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![Photoshop](https://img.shields.io/badge/Photoshop-★★★-lightgrey?labelColor=282c34&logo=GNU-Photoshop&style=for-the-badge&logoColor=4ba324)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 </details>
