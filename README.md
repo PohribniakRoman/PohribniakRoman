@@ -28,8 +28,8 @@
 [![bash](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=282c34&logo=GNU-Bash&style=for-the-badge&logoColor=4ba324)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 </div>
 
-<p>
+<p align=right>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pohribniakroman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pohribniakroman.visitor-badge&left_color=red&right_color=green&left_text=Visitors%20counter)
 </p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pohribniakroman.visitor-badge&left_color=red&right_color=green&left_text=Visitors%20counter)
