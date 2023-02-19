@@ -31,3 +31,5 @@
 <p>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pohribniakroman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+![1](https://komarev.com/ghpvc/?PohribniakRoman=pohribniakroman&style=flat-square&style=for-the-badge)
