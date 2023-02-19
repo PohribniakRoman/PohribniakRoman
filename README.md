@@ -1,6 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Roman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
+
 <p align="center">
 <samp>
 Frontend developer from Ukraine.
@@ -20,7 +21,6 @@ Frontend developer from Ukraine.
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 </div>
-#
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pohribniakroman&" alt="pohribniakroman" /></p>
 
