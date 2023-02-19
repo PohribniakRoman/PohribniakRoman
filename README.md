@@ -3,7 +3,7 @@
 
 <p align="center">
 <samp>
-I'm Roman Pohribniak. Frontend developer from Ukraine.
+Frontend developer from Ukraine.
 </samp>
   <br/>
   <br/>
