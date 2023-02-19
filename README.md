@@ -24,9 +24,6 @@ I'm Roman Pohribniak. Frontend developer from Ukraine.
 - 💽 MongoDB
 
 #
-<p  align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pohribniakroman&show_icons=true&locale=en&layout=compact" alt="pohribniakroman" /></p>
-
-<p align="center">&nbsp;</p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pohribniakroman&" alt="pohribniakroman" /></p>
 
