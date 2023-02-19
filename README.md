@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://hemant.codes">Roman</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 <p>Frontend developer from Ukraine.</p>
    
-<p><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pohribniakroman&hide=c%23,powershell,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></p>
+<p><img width=700 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pohribniakroman&hide=c%23,powershell,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></p>
    
    
 ### 🔨 Languages and Tools:
