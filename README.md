@@ -45,6 +45,6 @@ Frontend developer from Ukraine.
 <br> 
 [![mongoDB](https://img.shields.io/badge/MongoDB-★★★-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
 <br>
-[![Git](https://img.shields.io/badge/Git-★★★-lightgrey?labelColor=e84d31&logo=Git&style=for-the-badge&logoColor=white)](https://git-scm.com/)
-[![bash](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![Git](https://img.shields.io/badge/Git-★★★-lightgrey?labelColor=282c34&logo=Git&style=for-the-badge&logoColor=white)](https://git-scm.com/)
+[![bash](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=282c34&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 </details>
