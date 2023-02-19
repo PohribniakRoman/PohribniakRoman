@@ -34,8 +34,12 @@ Frontend developer from Ukraine.
 [![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 <br>
 [![ReduxSaga](https://img.shields.io/badge/ReduxSaga-★★★-lightgrey?labelColor=282c34&logo=ReduxSaga&style=for-the-badge&logoColor=86d46b)](https://redux-saga.js.org/)
-[![Redux](https://img.shields.io/badge/Redux-★★★-lightgrey?labelColor=282c34&logo=Redux&style=for-the-badge&logoColor=61dafb)](https://redux.js.org/)
+[![Redux](https://img.shields.io/badge/Redux-★★★-lightgrey?labelColor=282c34&logo=Redux&style=for-the-badge&logoColor=764abc)](https://redux.js.org/)
 [![React](https://img.shields.io/badge/React-★★★-lightgrey?labelColor=282c34&logo=React&style=for-the-badge&logoColor=61dafb)](https://uk.ractjs.org/)
+<br>
+[![Node.js](https://img.shields.io/badge/Node-★★★-lightgrey?labelColor=282c34&logo=Node&style=for-the-badge&logoColor=86d46b)](https://redux-saga.js.org/)
+[![Nest.js](https://img.shields.io/badge/Nest-★★★-lightgrey?labelColor=282c34&logo=Nest&style=for-the-badge&logoColor=764abc)](https://redux.js.org/)
+[![Express.js](https://img.shields.io/badge/Express-★★★-lightgrey?labelColor=282c34&logo=Express&style=for-the-badge&logoColor=61dafb)](https://uk.ractjs.org/)
 <br>
 [![Socket.IO](https://img.shields.io/badge/SocketIO-★★★-lightgrey?labelColor=ffffff&logo=SocketIO&style=for-the-badge&logoColor=black)](https://git-scm.com/)
 <br> 
