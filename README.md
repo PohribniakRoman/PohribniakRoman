@@ -14,7 +14,7 @@
 [![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-★★★-lightgrey?labelColor=ffffff&logo=Socket.IO&style=for-the-badge&logoColor=black)](https://socket.io/)
 [![mongoDB](https://img.shields.io/badge/MongoDB-★★★-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
-[![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
+[![javascript](https://img.shields.io/badge/javascript-★★★-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 <br>
 [![ReduxSaga](https://img.shields.io/badge/ReduxSaga-★★★-lightgrey?labelColor=282c34&logo=ReduxSaga&style=for-the-badge&logoColor=86d46b)](https://redux-saga.js.org/)
 [![Redux](https://img.shields.io/badge/Redux-★★★-lightgrey?labelColor=282c34&logo=Redux&style=for-the-badge&logoColor=764abc)](https://redux.js.org/)
