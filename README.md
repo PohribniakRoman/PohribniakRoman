@@ -10,8 +10,8 @@
    
    
 ### 🔨 Languages and Tools:
-[![html](https://img.shields.io/badge/html?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
-[![css](https://img.shields.io/badge/css?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
+[![html](https://img.shields.io/badge/html-?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
+[![css](https://img.shields.io/badge/css&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
 [![Socket.IO](https://img.shields.io/badge/Socket.IO?labelColor=ffffff&logo=Socket.IO&style=for-the-badge&logoColor=black)](https://socket.io/)
 [![mongoDB](https://img.shields.io/badge/MongoDB?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
 [![javascript](https://img.shields.io/badge/javascript?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
