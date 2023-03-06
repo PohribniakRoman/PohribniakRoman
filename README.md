@@ -10,22 +10,22 @@
    
    
 ### 🔨 Languages and Tools:
-[![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
-[![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
-[![Socket.IO](https://img.shields.io/badge/Socket.IO-★★★-lightgrey?labelColor=ffffff&logo=Socket.IO&style=for-the-badge&logoColor=black)](https://socket.io/)
-[![mongoDB](https://img.shields.io/badge/MongoDB-★★★-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
-[![javascript](https://img.shields.io/badge/javascript-★★★-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
+[![html](https://img.shields.io/badge/html-E34F26?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
+[![css](https://img.shields.io/badge/css-1572B6?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-ffffff?labelColor=ffffff&logo=Socket.IO&style=for-the-badge&logoColor=black)](https://socket.io/)
+[![mongoDB](https://img.shields.io/badge/MongoDB-47A248?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
+[![javascript](https://img.shields.io/badge/javascript-F7DF1E?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 <br>
-[![ReduxSaga](https://img.shields.io/badge/ReduxSaga-★★★-lightgrey?labelColor=282c34&logo=ReduxSaga&style=for-the-badge&logoColor=86d46b)](https://redux-saga.js.org/)
-[![Redux](https://img.shields.io/badge/Redux-★★★-lightgrey?labelColor=282c34&logo=Redux&style=for-the-badge&logoColor=764abc)](https://redux.js.org/)
-[![React](https://img.shields.io/badge/React-★★★-lightgrey?labelColor=282c34&logo=React&style=for-the-badge&logoColor=61dafb)](https://uk.ractjs.org/)
+[![ReduxSaga](https://img.shields.io/badge/ReduxSaga-282c34?labelColor=282c34&logo=ReduxSaga&style=for-the-badge&logoColor=86d46b)](https://redux-saga.js.org/)
+[![Redux](https://img.shields.io/badge/Redux-282c34?labelColor=282c34&logo=Redux&style=for-the-badge&logoColor=764abc)](https://redux.js.org/)
+[![React](https://img.shields.io/badge/React-282c34?labelColor=282c34&logo=React&style=for-the-badge&logoColor=61dafb)](https://uk.ractjs.org/)
 <br>
-[![Node.js](https://img.shields.io/badge/Node.JS-★★★-lightgrey?labelColor=282c34&logo=Node.JS&style=for-the-badge&logoColor=57a746)](https://nodejs.org/)
-[![Nest.js](https://img.shields.io/badge/NestJS-★★★-lightgrey?labelColor=282c34&logo=NestJS&style=for-the-badge&logoColor=ea2845)](https://nestjs.com/)
-[![Express.js](https://img.shields.io/badge/Express-★★★-lightgrey?labelColor=282c34&logo=Express&style=for-the-badge&logoColor=6c6c6c)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.JS-282c34?labelColor=282c34&logo=Node.JS&style=for-the-badge&logoColor=57a746)](https://nodejs.org/)
+[![Nest.js](https://img.shields.io/badge/NestJS-282c34?labelColor=282c34&logo=NestJS&style=for-the-badge&logoColor=ea2845)](https://nestjs.com/)
+[![Express.js](https://img.shields.io/badge/Express-282c34?labelColor=282c34&logo=Express&style=for-the-badge&logoColor=6c6c6c)](https://expressjs.com/)
 <br>
-[![Git](https://img.shields.io/badge/Git-★★★-lightgrey?labelColor=282c34&logo=Git&style=for-the-badge&logoColor=e84d31)](https://git-scm.com/)
-[![bash](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=282c34&logo=GNU-Bash&style=for-the-badge&logoColor=4ba324)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![Git](https://img.shields.io/badge/Git-282c34?labelColor=282c34&logo=Git&style=for-the-badge&logoColor=e84d31)](https://git-scm.com/)
+[![bash](https://img.shields.io/badge/bash-282c34?labelColor=282c34&logo=GNU-Bash&style=for-the-badge&logoColor=4ba324)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 </div>
 
 <p align=right>
