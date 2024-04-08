@@ -44,9 +44,6 @@
    <a href="https://t.me/RomanPohribniak" target="_blank" rel="noreferrer">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-RomanPohribniak-blue?style=flat-square&logo=telegram&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/roman-pohribniak-a868b0232" target="_blank" rel="noreferrer">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roman%20Pohribniak-blue?style=flat-square&logo=linkedin&logoColor=white">
-    </a>
     <a href="mailto:roman.pohribniak@gmail.com">
         <img alt="Email" src="https://img.shields.io/badge/Email-roman.pohribniak@gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
     </a>
