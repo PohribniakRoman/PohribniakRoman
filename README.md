@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://portfolio-pohribniakroman.vercel.app/">Roman</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+   <h1>Hi there, I'm Roman <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 <p>👋 Frontend developer from Ukraine.</p>
    
 <p>
